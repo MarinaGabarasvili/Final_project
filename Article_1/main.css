@@ -1,0 +1,93 @@
+.rec_art1{
+    list-style: none;
+    margin: 1px;
+    padding: 5px;
+    height: 480px;
+    
+}
+.img-responsive{
+    float: left;
+    height: 280px;
+    width: 280px;
+}
+
+.col-12{
+    font-size: 12px;
+}
+
+
+.list1_text{
+    margin-left: 40px;
+    margin-top: 0px;
+    padding: 5px;
+    padding-top: 0px;
+}
+
+.img-responsive-1{
+    float: left;
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    top: 295px;
+    left: 22px;
+    height: 90px;
+    width: 90px;
+
+}
+.img-responsive-2{
+    float: left;
+    
+    margin-right: 10px;
+    position: absolute;
+    top: 295px;
+    left: 116px;
+    height: 90px;
+    width: 90px;
+
+}
+
+.img-responsive-3{
+    float: left;
+   
+    position: absolute;
+    top: 295px;
+    left: 210px;
+    height: 90px;
+    width: 90px;
+}
+.img-responsive-4{
+    float: left;
+    
+    position: absolute;
+    top: 390px;
+    left: 22px;
+    height: 90px;
+    width: 90px;
+
+}
+.img-responsive-5{
+    float: left;
+    
+    position: absolute;
+    top: 390px;
+    left: 116px;
+    height: 90px;
+    width: 90px;
+
+}
+.img-responsive-6{
+    float: left;
+    
+    position: absolute;
+    top: 390px;
+    left: 210px;
+    height: 90px;
+    width: 90px;
+
+}
+
+footer{
+    text-align: left;
+    font-size: 10px;
+    margin-bottom: 20px;
+}

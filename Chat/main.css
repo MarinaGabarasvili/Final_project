@@ -1,0 +1,43 @@
+#chatbox{
+    text-align: left;
+    margin:0 auto;
+    margin-bottom: 0px;
+    padding: 10px;
+    height:270px ;
+    width: 100% ;
+    border: 1px solid gray;
+    border-bottom: 0px;
+    overflow: auto;
+
+}
+
+#toolbox{
+    text-align: left;
+    margin:0 auto;
+    margin-bottom: 10px;
+    padding: 10px;
+    height:200px ;
+    width: 100% ;
+    border: 1px solid gray;
+    overflow: auto;
+
+}
+
+
+#message{
+    width: 90%;
+    float: left;
+
+}
+#submit-message{
+    width: 70px;
+    margin: 10px;
+    float: left;
+
+}
+footer{
+    text-align: left;
+    font-size: 10px;
+    margin-bottom: 20px;
+}
+

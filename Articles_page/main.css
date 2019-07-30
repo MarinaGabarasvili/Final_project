@@ -1,0 +1,49 @@
+.list1_img {
+    float: left;
+    width: 10%;
+    }
+.list1_text{
+    float: left;
+    width: 90%;
+    }
+.list1_text h3{
+        font-size: 12px;
+        color: black;
+        font-style: bold;
+    }
+.list1_text p{
+        font-size: 10px;
+        
+    }
+.mr-3{
+        height: 100px;
+        width: 100px;
+    }
+
+.media-body h6{
+    color: black;
+    text-decoration: underline;
+    font-size: 14px;
+}
+
+.media-body p{
+font-size: 12px;
+    }
+.rec_art1{
+        list-style: none;
+        margin: 1px;
+        padding: 5px;
+        box-shadow: 0 0 5px #aaa;
+        background: white;
+        height: 100px;
+        
+    }
+
+.page-link{
+    color: black;
+}
+footer{
+        text-align: left;
+        font-size: 10px;
+        margin-bottom: 20px;
+    }
