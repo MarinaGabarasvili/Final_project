@@ -1,2 +1,2 @@
-# Final_project
-Project was made as final task for Riga Coding School basic programming course.
+WEB_project
+Project was made as final task for basic programming course.
